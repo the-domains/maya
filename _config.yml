@@ -1,6 +1,6 @@
 name: Maya
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.90635
 typography_spectrum: 0.86146
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#b59241'
     - '#ded2b8'
   brandStrength: 0.125
-  lightness: 0.5
+  lightness: 0.25
   saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
