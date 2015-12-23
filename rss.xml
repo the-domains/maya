@@ -4,8 +4,15 @@
         <description><![CDATA[Maya]]></description>
         <link>https://thegrid.ai/maya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 10:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 10:36:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maya/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Now I allow]]></title>
+            <description><![CDATA[<article><h1>Now I allow</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af74334-5786-4c4d-9e6f-bb5d4d58ce28.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maya/now-i-allow/index.html</link>
+            <guid isPermaLink="false">52a21239-5f6e-4f99-bb95-c19f78cc1761</guid>
+            <pubDate>Wed, 23 Dec 2015 10:35:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This image I project]]></title>
             <description><![CDATA[<article><h1>This image I project</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90819d725f03bc4abd0376f61a86669745b322e2.jpg"></article>]]></description>
