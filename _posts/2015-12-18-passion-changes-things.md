@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T14:09:28.633Z'
-dateModified: '2015-12-25T14:09:15.238Z'
+datePublished: '2015-12-25T14:11:45.641Z'
+dateModified: '2015-12-25T14:11:43.650Z'
 title: "Nobody's Dinner"
 author: []
 sourcePath: _posts/2015-12-18-passion-changes-things.md
@@ -35,4 +35,4 @@ I've finally reconciled
 my outer 
 
 with my inner.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0b10776c64d2e5af635973f083b301921c53f70.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/493a73867d724e0058c1d3d89c6498a1d4c33232.jpg)
