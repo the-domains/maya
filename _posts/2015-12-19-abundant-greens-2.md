@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-25T11:40:34.454Z'
-dateModified: '2015-12-25T11:40:28.813Z'
+datePublished: '2015-12-25T13:06:08.129Z'
+dateModified: '2015-12-25T13:04:45.763Z'
 title: Abundant Greens 2
 author: []
 sourcePath: _posts/2015-12-19-abundant-greens-2.md
@@ -22,8 +22,6 @@ url: abundant-greens-2/index.html
 _type: Article
 
 ---
-Abundant greens 2
-
 In all of creation
 there are many scenes.
 But to me, none as moving
