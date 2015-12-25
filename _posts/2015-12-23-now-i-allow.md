@@ -1,29 +1,27 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T10:35:59.775Z'
-dateModified: '2015-12-23T10:35:44.334Z'
+datePublished: '2015-12-25T13:05:53.315Z'
+dateModified: '2015-12-25T13:03:42.838Z'
 title: Now I allow
 author: []
+sourcePath: _posts/2015-12-23-now-i-allow.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-23-now-i-allow.md
-published: true
 url: now-i-allow/index.html
 _type: Article
 
 ---
-Now I allow
-
 I was too blind
 to notice, 
 
