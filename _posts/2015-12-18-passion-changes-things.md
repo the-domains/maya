@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-25T13:14:29.478Z'
-dateModified: '2015-12-25T13:14:24.821Z'
+datePublished: '2015-12-25T14:09:28.633Z'
+dateModified: '2015-12-25T14:09:15.238Z'
 title: "Nobody's Dinner"
 author: []
 sourcePath: _posts/2015-12-18-passion-changes-things.md
