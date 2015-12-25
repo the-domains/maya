@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-25T11:38:24.693Z'
-dateModified: '2015-12-25T11:38:21.581Z'
+datePublished: '2015-12-25T11:39:12.862Z'
+dateModified: '2015-12-25T11:39:08.030Z'
 title: Abundant Greens 2
 author: []
 sourcePath: _posts/2015-12-19-abundant-greens-2.md
