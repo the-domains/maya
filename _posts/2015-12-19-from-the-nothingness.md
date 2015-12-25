@@ -1,29 +1,27 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T22:23:50.533Z'
-dateModified: '2015-12-19T22:21:09.938Z'
+datePublished: '2015-12-25T13:06:13.962Z'
+dateModified: '2015-12-25T13:05:08.436Z'
 title: From the nothingness
 author: []
+sourcePath: _posts/2015-12-19-from-the-nothingness.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-from-the-nothingness.md
-published: true
 url: from-the-nothingness/index.html
 _type: Article
 
 ---
-From the nothingness
-
 From 
 the nothingness 
 that I come,
