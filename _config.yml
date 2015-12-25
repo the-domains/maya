@@ -1,6 +1,6 @@
 name: Maya
 favicon: null
-layout_spectrum: 0.89559
+layout_spectrum: 1
 typography_spectrum: 0.89334
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#010101'
-    - '#c3b1a4'
-    - '#9d6d4b'
-    - '#55e1e6'
+    - '#e8e7e3'
+    - '#aaa399'
+    - '#5a4d3d'
+    - '#8c7f6f'
+    - '#211c18'
   brandStrength: 0.1875
-  lightness: 0.125
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
