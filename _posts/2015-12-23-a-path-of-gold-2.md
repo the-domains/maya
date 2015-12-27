@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T16:32:55.336Z'
-dateModified: '2015-12-25T16:32:16.949Z'
+datePublished: '2015-12-27T17:19:48.986Z'
+dateModified: '2015-12-27T17:19:45.325Z'
 title: a path of gold 2
 author: []
 sourcePath: _posts/2015-12-23-a-path-of-gold-2.md
@@ -34,4 +34,4 @@ And as I stand before
 this inspiring sight to behold,
 once found, I must follow 
 this mystical path of gold.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad48e988-e175-495d-beed-bc863ad06a5c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6047eb9a81ee7eab23cdf76a2a6d57d799ec054.jpg)
