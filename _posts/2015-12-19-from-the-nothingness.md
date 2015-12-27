@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T13:06:13.962Z'
-dateModified: '2015-12-25T13:05:08.436Z'
+datePublished: '2015-12-27T17:24:29.249Z'
+dateModified: '2015-12-27T17:24:10.213Z'
 title: From the nothingness
 author: []
 sourcePath: _posts/2015-12-19-from-the-nothingness.md
@@ -36,4 +36,4 @@ to travel
 from here to nowhere,
 I move at a substantial rate,
 determining my adventure,
-my experience, my very fate. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fded7054-4507-4937-b723-dedd4441043d.jpg)
+my experience, my very fate. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b173aaedaab4e772c69839f25ed50296d2672567.jpg)
