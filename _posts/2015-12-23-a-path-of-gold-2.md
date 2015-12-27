@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T17:21:55.533Z'
-dateModified: '2015-12-27T17:21:52.454Z'
+datePublished: '2015-12-27T17:23:06.287Z'
+dateModified: '2015-12-27T17:23:04.120Z'
 title: a path of gold 2
 author: []
 sourcePath: _posts/2015-12-23-a-path-of-gold-2.md
