@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T17:24:29.249Z'
-dateModified: '2015-12-27T17:24:10.213Z'
+datePublished: '2015-12-27T17:32:26.764Z'
+dateModified: '2015-12-27T17:32:24.315Z'
 title: From the nothingness
 author: []
 sourcePath: _posts/2015-12-19-from-the-nothingness.md
