@@ -4,8 +4,17 @@
         <description><![CDATA[Maya]]></description>
         <link>https://thegrid.ai/maya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 11:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 12:15:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maya/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[From the nothingness]]></title>
+            <description><![CDATA[<article><h1>From the nothingness</h1><p>From 
+the nothingness           
+that I come, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c178ec7547eca9bfd5dd8e01f234dd2c62f3bf3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maya/from-the-nothingness/index.html</link>
+            <guid isPermaLink="false">6c84745e-20d4-4aec-bc9e-679f7d97e11e</guid>
+            <pubDate>Wed, 30 Dec 2015 12:15:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Advantages]]></title>
             <description><![CDATA[<article><h1>Advantages</h1><p>It is the greatest of all advantages to enjoy no advantage at all. - Henry David Thoreau.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d11a5b7433213502875ff4cdc61c8e2b2c683e7f.jpg"></article>]]></description>
@@ -104,13 +113,6 @@ I project, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90819
             <link>https://thegrid.ai/maya/this-image-i-project/index.html</link>
             <guid isPermaLink="false">45843f16-3eb6-46d7-b4a3-52c0fd057cec</guid>
             <pubDate>Fri, 25 Dec 2015 13:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a mid day seranade]]></title>
-            <description><![CDATA[<article><h1>a mid day seranade</h1><p>a mid-day serenade </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3a6d1282007ce913fcd922afef6a7c9784fa73a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/maya/a-mid-day-seranade/index.html</link>
-            <guid isPermaLink="false">8d1a1a66-b414-4f3c-bf0d-a1e8663e71ea</guid>
-            <pubDate>Fri, 25 Dec 2015 13:06:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
