@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T18:13:29.392Z'
-dateModified: '2016-01-05T18:12:37.216Z'
+datePublished: '2016-01-05T23:18:01.871Z'
+dateModified: '2016-01-05T23:17:44.760Z'
 title: a dream coming true
 author: []
+sourcePath: _posts/2016-01-05-a-dream-coming-true.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-a-dream-coming-true.md
-published: true
 url: a-dream-coming-true/index.html
 _type: Article
 
@@ -32,9 +32,9 @@ more beautiful
 
 than a dream, 
 
-that is well expressed, 
+well expressed, 
 
-and becoming? 
+and then becoming? 
 
 Its a magical quest, 
 
