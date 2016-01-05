@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T18:42:10.578Z'
-dateModified: '2016-01-05T18:41:54.471Z'
-title: I am reminded to dance in the leaves.. no matter what..
+datePublished: '2016-01-05T18:46:04.659Z'
+dateModified: '2016-01-05T18:46:01.957Z'
+title: Maya Running
 author: []
 sourcePath: _posts/2015-12-23-maya-running.md
 published: true
@@ -22,8 +22,7 @@ url: maya-running/index.html
 _type: Article
 
 ---
-Maya Running
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77ca3723-572f-4681-b3d7-35ba2b435f25.gif)
+Maya Running ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77ca3723-572f-4681-b3d7-35ba2b435f25.gif)
 
-# I am reminded to dance in the leaves..  
-no matter what..
+_I am reminded to dance in the leaves..  
+no matter what.._
