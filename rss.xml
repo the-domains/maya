@@ -4,8 +4,15 @@
         <description><![CDATA[Maya]]></description>
         <link>https://thegrid.ai/maya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 16:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 11:26:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maya/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[can you remember]]></title>
+            <description><![CDATA[<article><h1>can you remember</h1><p>Can you remember </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d45823843a30d65872675e3502657ba07eb11f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maya/can-you-remember/index.html</link>
+            <guid isPermaLink="false">93402fb6-8d72-483c-84d7-771cc54e0e07</guid>
+            <pubDate>Mon, 11 Jan 2016 11:25:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[a rose, a puppy and a kiss ]]></title>
             <description><![CDATA[<article><h1>a rose, a puppy and a kiss </h1><p> Upon a dew drop’s kiss </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/147fd48475d6353bb756a4c8a51564a713e75c96.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[a dream coming true]]></title>
-            <description><![CDATA[<article><h1>a dream coming true</h1><p>Is there anything </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0e4f91f5dd1cb5de10dc81e6be76ef3c2728d26.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>a dream coming true</h1><p>Is there anything </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c607bf8bd1fd61d4b5cec85297304629263c10e4.jpg"></article>]]></description>
             <link>https://thegrid.ai/maya/a-dream-coming-true/index.html</link>
             <guid isPermaLink="false">f2e6a450-e345-4817-b539-43156f93364e</guid>
             <pubDate>Tue, 05 Jan 2016 23:18:01 GMT</pubDate>
@@ -92,26 +99,6 @@ is expansion into infinity, don't you know.</p><img src="https://s3-us-west-2.am
             <link>https://thegrid.ai/maya/maya-running/index.html</link>
             <guid isPermaLink="false">2fc9f40d-5184-459b-8542-b39c0ddf7c0d</guid>
             <pubDate>Tue, 05 Jan 2016 18:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a path of gold 2]]></title>
-            <description><![CDATA[<article><h1>a path of gold 2</h1><p>A blanket of autumn leaves,
-in shades of orange and brown.
-Falling as red, yellow, and green,
-they harden on the ground.  
-
-From countless trees
-within my limited view,
-an infinite number of leaves
-transform color and hue.
-
-And as I stand before
-this inspiring sight to behold,
-once found, I must follow 
-this mystical path of gold.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd2d69e6dfd1281f1c589fa85dfef63f195c0351.jpg"></article>]]></description>
-            <link>https://thegrid.ai/maya/a-path-of-gold-2/index.html</link>
-            <guid isPermaLink="false">89e6abb4-3e13-48a9-beb0-b73b8650999c</guid>
-            <pubDate>Mon, 28 Dec 2015 13:13:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
