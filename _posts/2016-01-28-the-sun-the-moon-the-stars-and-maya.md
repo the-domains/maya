@@ -14,7 +14,7 @@ description: 'Video Trailer for the Book The Sun, the Moon, the Stars and Maya a
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=DRaAVL7Jylg'
 title: 'The Sun, The Moon, The Stars, and Maya'
-datePublished: '2016-01-28T11:01:48.042Z'
+datePublished: '2016-01-28T11:01:48.071Z'
 dateModified: '2016-01-28T11:01:09.005Z'
 sourcePath: _posts/2016-01-28-the-sun-the-moon-the-stars-and-maya.md
 published: true
