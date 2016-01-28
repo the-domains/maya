@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T13:06:08.129Z'
-dateModified: '2015-12-25T13:04:45.763Z'
+datePublished: '2016-01-28T11:01:34.505Z'
+dateModified: '2016-01-28T11:01:17.406Z'
 title: Abundant Greens 2
 author: []
 sourcePath: _posts/2015-12-19-abundant-greens-2.md
