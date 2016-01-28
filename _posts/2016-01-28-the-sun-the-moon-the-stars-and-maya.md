@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: 'Video Trailer for the Book The Sun, the Moon, the Stars and Maya a very special book unique in format, richly textured with full color original illustrations using famous quotes as inspirations for short lyrical interpretations by Maya the magical puppy who speaks in rhyme all the time.'
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=DRaAVL7Jylg'
 title: 'The Sun, The Moon, The Stars, and Maya'
-datePublished: '2016-01-28T10:58:03.097Z'
-dateModified: '2016-01-28T10:57:04.244Z'
+datePublished: '2016-01-28T11:01:48.042Z'
+dateModified: '2016-01-28T11:01:09.005Z'
 sourcePath: _posts/2016-01-28-the-sun-the-moon-the-stars-and-maya.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
