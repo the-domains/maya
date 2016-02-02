@@ -4,11 +4,18 @@
         <description><![CDATA[Maya]]></description>
         <link>https://thegrid.ai/maya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 19:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 19:34:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maya/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[a greeting machine]]></title>
+            <description><![CDATA[<article><h1>a greeting machine</h1><p>I was out for a walk</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e731bd336d7705df70e6f4661434f34f0f57b8e2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maya/a-greeting-machine/index.html</link>
+            <guid isPermaLink="false">1806a0e0-193d-43cf-b67f-6c4cb592165c</guid>
+            <pubDate>Tue, 02 Feb 2016 19:34:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[anew each day]]></title>
-            <description><![CDATA[<article><h1>anew each day</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1a0d043-dfe7-4296-a890-26d111602278.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>anew each day</h1><p>You have to wake up a virgin each morning. ~Jean-Louis Barrault</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/595086ba7b84a3f53e99becabba4c6764bfe7860.jpg"></article>]]></description>
             <link>https://thegrid.ai/maya/anew-each-day/index.html</link>
             <guid isPermaLink="false">c607f420-d54d-487f-8d9d-cbccc04b221e</guid>
             <pubDate>Tue, 02 Feb 2016 19:33:31 GMT</pubDate>
