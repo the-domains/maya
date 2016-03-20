@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-02T19:34:01.483Z'
-dateModified: '2016-02-02T19:28:00.808Z'
+description: I was out for a walk
+datePublished: '2016-03-20T16:37:28.805Z'
+dateModified: '2016-03-20T16:37:07.355Z'
 title: a greeting machine
 author: []
+sourcePath: _posts/2016-02-02-a-greeting-machine.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-a-greeting-machine.md
-published: true
 url: a-greeting-machine/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1545d311-5a02-4c07-ace7-4e62dab24674.jpg)
