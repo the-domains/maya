@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-02T19:34:13.047Z'
-dateModified: '2016-02-02T19:26:05.368Z'
+description: "“A good poem is a contribution to reality. The world is never the same once a good poem has been added to it. A good poem helps to change the shape of the universe, helps to extend everyone's knowledge of himself and the world around him.” Dylan Thomas."
+datePublished: '2016-03-20T16:38:06.483Z'
+dateModified: '2016-03-20T16:37:53.205Z'
 title: a good poem
 author: []
+sourcePath: _posts/2016-02-02-a-good-poem.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-a-good-poem.md
-published: true
 url: a-good-poem/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54fd8538-28de-4704-aa4a-1f0654234884.jpg)
