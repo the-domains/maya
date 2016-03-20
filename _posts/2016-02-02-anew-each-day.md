@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: You have to wake up a virgin each morning. ~Jean-Louis Barrault
-datePublished: '2016-03-20T16:36:14.719Z'
-dateModified: '2016-03-20T16:33:59.751Z'
+datePublished: '2016-03-20T16:36:58.455Z'
+dateModified: '2016-03-20T16:36:35.040Z'
 title: anew each day
 author: []
 sourcePath: _posts/2016-02-02-anew-each-day.md
