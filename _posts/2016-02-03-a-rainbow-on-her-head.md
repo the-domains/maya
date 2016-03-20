@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-03T14:50:33.325Z'
-dateModified: '2016-02-03T14:43:19.173Z'
+description: 'I have noticed, since just a pup'
+datePublished: '2016-03-20T16:33:15.222Z'
+dateModified: '2016-03-20T16:33:10.629Z'
 title: a rainbow  on her head
 author: []
+sourcePath: _posts/2016-02-03-a-rainbow-on-her-head.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-03-a-rainbow-on-her-head.md
-published: true
 url: a-rainbow-on-her-head/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16cba339-2eb0-4955-a5c8-57afa4a4814a.jpg)
