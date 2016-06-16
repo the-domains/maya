@@ -1,20 +1,20 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: 'So many ways '
-datePublished: '2016-06-16T22:36:07.075Z'
-dateModified: '2016-06-16T22:35:42.837Z'
+description: So many ways
+datePublished: '2016-06-16T22:38:40.426Z'
+dateModified: '2016-06-16T22:38:25.077Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-16-so-many-ways.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-16-so-many-ways.md
 url: so-many-ways/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68bfc931-0229-4be4-8d8c-53d91994d024.jpg)
