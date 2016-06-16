@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: So many ways
-datePublished: '2016-06-16T22:38:40.426Z'
-dateModified: '2016-06-16T22:38:25.077Z'
+datePublished: '2016-06-16T22:38:55.534Z'
+dateModified: '2016-06-16T22:38:47.526Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-16-so-many-ways.md
