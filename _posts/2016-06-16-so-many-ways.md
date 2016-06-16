@@ -4,15 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: So many ways
-datePublished: '2016-06-16T22:36:27.402Z'
-dateModified: '2016-06-16T22:36:15.045Z'
+description: 'So many ways '
+datePublished: '2016-06-16T22:36:07.075Z'
+dateModified: '2016-06-16T22:35:42.837Z'
 title: ''
 author: []
-sourcePath: _posts/2016-06-16-so-many-ways.md
 authors: []
 publisher: null
 starred: false
+sourcePath: _posts/2016-06-16-so-many-ways.md
 url: so-many-ways/index.html
 _type: Article
 
