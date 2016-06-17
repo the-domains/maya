@@ -1,23 +1,23 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: So many ways
-datePublished: '2016-06-16T22:38:55.534Z'
-dateModified: '2016-06-16T22:38:47.526Z'
-title: ''
-author: []
+datePublished: '2016-06-17T09:57:40.582Z'
 sourcePath: _posts/2016-06-16-so-many-ways.md
+inFeed: false
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-06-17T09:57:33.697Z'
+title: ''
 publisher: null
+description: So many ways
+inLanguage: null
+inNav: true
 starred: false
 url: so-many-ways/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68bfc931-0229-4be4-8d8c-53d91994d024.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c814a26ce213f3dae3625318080553fa/croprotate.jpg?cropheight=2974&cropwidth=3469&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F68bfc931-0229-4be4-8d8c-53d91994d024.jpg&x=0&y=0)
 
 So many ways
 
@@ -47,11 +47,11 @@ It can cause a grace,
 
 if instead, I choose love,
 
-and expressing this face, 
+and expressing this face,
 
 brings heaven from above.
 
-Everything that we do is a creation,
+Everything that we are is a creation,
 
 and everything we say, a vibration.
 
