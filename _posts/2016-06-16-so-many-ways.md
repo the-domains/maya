@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-06-17T09:57:40.582Z'
-sourcePath: _posts/2016-06-16-so-many-ways.md
 inFeed: false
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-06-17T09:57:33.697Z'
-title: ''
-publisher: null
-description: So many ways
-inLanguage: null
 inNav: true
+inLanguage: null
+keywords: []
+description: So many ways
+datePublished: '2016-06-17T13:12:09.239Z'
+dateModified: '2016-06-17T13:12:08.845Z'
+sourcePath: _posts/2016-06-16-so-many-ways.md
+author: []
+title: ''
+authors: []
+publisher: null
 starred: false
 url: so-many-ways/index.html
 _type: WebPage
@@ -59,4 +59,4 @@ So what creative juices light your fire
 
 what things can you now do,
 
-to help lift us all from the mire.
+to help lift us all up from the mire.
