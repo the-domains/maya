@@ -34,5 +34,8 @@ navigation:
   - name: abundant greens
     id: da0f312c-37a2-475c-8f6b-de2549833cce
     type: content
+  - name: a rainbow  on her head
+    id: 008e65af-a5fa-4119-b4e3-c373172da190
+    type: content
 favicon: null
 purpose: []
