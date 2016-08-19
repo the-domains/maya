@@ -28,5 +28,8 @@ navigation:
   - name: carpenter of my soul
     id: f8cb6eb1-55d3-4465-8c63-6cdf626b9e72
     type: content
+  - name: filters
+    id: fd59d44b-4a64-454e-9dfd-7f9edf10102f
+    type: content
 favicon: null
 purpose: []
