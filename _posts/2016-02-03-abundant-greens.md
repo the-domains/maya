@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: “I rose from marsh mud
-datePublished: '2016-03-20T16:32:53.543Z'
-dateModified: '2016-03-20T16:32:47.087Z'
-title: abundant greens
-author: []
+datePublished: '2016-08-19T20:44:46.430Z'
+dateModified: '2016-08-19T20:44:45.924Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-03-abundant-greens.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: abundant-greens/index.html
 _type: WebPage
 
