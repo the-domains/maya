@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: And who might I be
-datePublished: '2016-03-20T16:36:41.683Z'
-dateModified: '2016-03-20T16:36:37.001Z'
-title: a messy mess
-author: []
+datePublished: '2016-08-19T20:45:11.395Z'
+dateModified: '2016-08-19T20:45:10.955Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-02-a-messy-mess.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: a-messy-mess/index.html
 _type: WebPage
 
