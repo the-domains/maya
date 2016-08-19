@@ -46,5 +46,8 @@ navigation:
   - name: a greeting machine
     id: 1806a0e0-193d-43cf-b67f-6c4cb592165c
     type: content
+  - name: a good poem
+    id: 35b5cf26-42c0-4a16-8ccd-1790bfdff197
+    type: content
 favicon: null
 purpose: []
