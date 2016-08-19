@@ -31,5 +31,8 @@ navigation:
   - name: filters
     id: fd59d44b-4a64-454e-9dfd-7f9edf10102f
     type: content
+  - name: abundant greens
+    id: da0f312c-37a2-475c-8f6b-de2549833cce
+    type: content
 favicon: null
 purpose: []
