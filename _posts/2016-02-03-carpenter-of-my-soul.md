@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: "Every moment I shape my destiny with a chisel - I am the carpenter of my own soul. - Rumi\_"
-datePublished: '2016-03-20T16:32:33.921Z'
-dateModified: '2016-03-20T16:32:30.032Z'
-title: carpenter of my soul
-author: []
+datePublished: '2016-08-19T20:44:13.319Z'
+dateModified: '2016-08-19T20:44:12.594Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-03-carpenter-of-my-soul.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: carpenter-of-my-soul/index.html
 _type: WebPage
 
