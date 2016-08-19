@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: I was out for a walk
-datePublished: '2016-03-20T16:37:28.805Z'
-dateModified: '2016-03-20T16:37:07.355Z'
-title: a greeting machine
-author: []
+datePublished: '2016-08-19T20:45:17.916Z'
+dateModified: '2016-08-19T20:45:17.491Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-02-a-greeting-machine.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: a-greeting-machine/index.html
 _type: WebPage
 
