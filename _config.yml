@@ -55,5 +55,8 @@ navigation:
   - name: Maya Running
     id: 2fc9f40d-5184-459b-8542-b39c0ddf7c0d
     type: content
+  - name: Abundant Greens 2
+    id: 2fab286a-fab0-48ad-9b83-f611f735af54
+    type: content
 favicon: null
 purpose: []
