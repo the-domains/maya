@@ -40,5 +40,8 @@ navigation:
   - name: anew each day
     id: c607f420-d54d-487f-8d9d-cbccc04b221e
     type: content
+  - name: a messy mess
+    id: 987c3ac3-22be-454b-b489-d15fd3daaeaa
+    type: content
 favicon: null
 purpose: []
