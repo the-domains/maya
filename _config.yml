@@ -1,19 +1,4 @@
-name: Maya
-favicon: null
-layout_spectrum: 0.1243
 typography_spectrum: 0.70777
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,23 @@ color:
   lightness: 0.8125
   saturation: 0.5625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1243
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Maya
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: carpenter of my soul
+    id: f8cb6eb1-55d3-4465-8c63-6cdf626b9e72
+    type: content
+favicon: null
 purpose: []
