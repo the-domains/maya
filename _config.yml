@@ -49,5 +49,8 @@ navigation:
   - name: a good poem
     id: 35b5cf26-42c0-4a16-8ccd-1790bfdff197
     type: content
+  - name: ' Good news '
+    id: 101f8049-738d-4433-9921-4585060f13bf
+    type: content
 favicon: null
 purpose: []
