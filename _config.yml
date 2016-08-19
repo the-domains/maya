@@ -52,5 +52,8 @@ navigation:
   - name: ' Good news '
     id: 101f8049-738d-4433-9921-4585060f13bf
     type: content
+  - name: Maya Running
+    id: 2fc9f40d-5184-459b-8542-b39c0ddf7c0d
+    type: content
 favicon: null
 purpose: []
