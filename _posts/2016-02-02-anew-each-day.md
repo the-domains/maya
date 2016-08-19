@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: You have to wake up a virgin each morning. ~Jean-Louis Barrault
-datePublished: '2016-03-20T16:36:58.455Z'
-dateModified: '2016-03-20T16:36:35.040Z'
-title: anew each day
-author: []
+datePublished: '2016-08-19T20:45:03.036Z'
+dateModified: '2016-08-19T20:45:02.465Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-02-anew-each-day.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: anew-each-day/index.html
 _type: WebPage
 
