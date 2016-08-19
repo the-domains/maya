@@ -43,5 +43,8 @@ navigation:
   - name: a messy mess
     id: 987c3ac3-22be-454b-b489-d15fd3daaeaa
     type: content
+  - name: a greeting machine
+    id: 1806a0e0-193d-43cf-b67f-6c4cb592165c
+    type: content
 favicon: null
 purpose: []
