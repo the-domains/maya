@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'I have noticed, since just a pup'
-datePublished: '2016-03-20T16:33:15.222Z'
-dateModified: '2016-03-20T16:33:10.629Z'
-title: a rainbow  on her head
-author: []
+datePublished: '2016-08-19T20:44:55.090Z'
+dateModified: '2016-08-19T20:44:54.682Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-03-a-rainbow-on-her-head.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: a-rainbow-on-her-head/index.html
 _type: WebPage
 
