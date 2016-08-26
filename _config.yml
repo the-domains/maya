@@ -61,5 +61,8 @@ navigation:
   - name: Stay in that place
     id: 33736867-3511-4009-811f-477e112b9e1c
     type: content
+  - name: What are dreams
+    id: 4afea7a6-a8c8-4acd-990a-033f24b799c4
+    type: content
 favicon: null
 purpose: []
