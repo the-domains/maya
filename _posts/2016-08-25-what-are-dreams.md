@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-25T22:03:14.792Z'
+datePublished: '2016-08-25T22:03:32.221Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T22:02:19.226Z'
+dateModified: '2016-08-25T22:03:30.828Z'
 title: ''
 publisher: {}
 description: What are dreams
-starred: false
 sourcePath: _posts/2016-08-25-what-are-dreams.md
+starred: false
 url: what-are-dreams/index.html
 _context: 'http://schema.org'
 _type: Article
